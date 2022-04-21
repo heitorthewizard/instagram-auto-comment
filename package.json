@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "puppeteer": "^13.5.2"
+  },
+  "name": "instagram-auto-comment",
+  "version": "1.0.0",
+  "description": "Autopost comment repeatly",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js",
+    "start": "node app.js"
+  },
+  "author": "HeitorTheWizard",
+  "license": "ISC"
+}
